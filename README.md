@@ -8,7 +8,7 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 ### Algorithm
-```
+
 1. Start.
 2. Declare variables count, min, max, and random_number.
 3. Prompt the user to input the number of random numbers to generate (count).
@@ -23,7 +23,7 @@ Implementation of Pseudorandom Number Generation Using Standard library
     --> This formula ensures the random number is within the range [min, max].
     -->Print the random number.
 8. End.
-```
+
 ### Program:
 ```
 #include <stdio.h>
